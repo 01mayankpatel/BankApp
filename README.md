@@ -8,6 +8,6 @@ BankApp
  - Money Transaction
  - Transaction History
  - Logout
- Cannot display the actual site because it is not connected to any database. <\br>
-You can watch the source code from link given  below :
+ Cannot display the actual site because it is not connected to any database. 
+ You can watch the source code from link given  below :
  https://github.com/01mayankpatel/Bankapp
