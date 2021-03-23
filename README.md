@@ -10,5 +10,5 @@ BankApp
  - Logout<br>
  - User Profile<br>
  <h3>Cannot display the actual site because it is not connected to any database. <h3><br>
- You can watch the source code from link given  below :<br>
+ You can watch the source code from link given below :<br>
  https://github.com/01mayankpatel/Bankapp
